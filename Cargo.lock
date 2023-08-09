@@ -3,5 +3,9 @@
 version = 3
 
 [[package]]
+name = "array-for"
+version = "0.1.0"
+
+[[package]]
 name = "implicit-conversions"
 version = "0.1.0"
