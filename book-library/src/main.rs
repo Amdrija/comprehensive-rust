@@ -41,7 +41,7 @@ impl Library {
     }
 
     fn print_books(&self) {
-        for book in self.books.iter() {
+        for book in &self.books {
             println!("Title: {}, Year: {}", book.title, book.year);
         }
     }
@@ -52,7 +52,7 @@ impl Library {
         }
 
         let mut oldest = &self.books[0];
-        for book in self.books[1..].iter() {
+        for book in &self.books[1..] {
             if book.year < oldest.year {
                 oldest = book;
             }
