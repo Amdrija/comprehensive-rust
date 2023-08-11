@@ -7,5 +7,9 @@ name = "array-for"
 version = "0.1.0"
 
 [[package]]
+name = "book-library"
+version = "0.1.0"
+
+[[package]]
 name = "implicit-conversions"
 version = "0.1.0"
