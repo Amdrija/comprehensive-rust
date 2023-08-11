@@ -11,5 +11,9 @@ name = "book-library"
 version = "0.1.0"
 
 [[package]]
+name = "health-statistics"
+version = "0.1.0"
+
+[[package]]
 name = "implicit-conversions"
 version = "0.1.0"
