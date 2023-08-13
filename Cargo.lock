@@ -19,5 +19,9 @@ name = "implicit-conversions"
 version = "0.1.0"
 
 [[package]]
+name = "luhn"
+version = "0.1.0"
+
+[[package]]
 name = "polygons"
 version = "0.1.0"
