@@ -1,3 +1,3 @@
 [workspace]
 
-members = ["implicit-conversions", "array-for", "book-library", "health-statistics", "polygons", "luhn", "router"]
+members = ["implicit-conversions", "array-for", "book-library", "health-statistics", "polygons", "luhn", "router", "gui"]
